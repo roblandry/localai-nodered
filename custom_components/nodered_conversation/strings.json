@@ -3,12 +3,12 @@
     "step": {
       "user": {
         "data": {
-          "nodered_url": "NodeRed Endpoint",
-          "nodered_user": "NodeRed Endpoint User",
-          "nodered_pass": "NodeRed Endpoint Pass"
+          "nodered_url": "NodeRed Endpoint URL",
+          "nodered_user": "NodeRed Endpoint Username",
+          "nodered_pass": "NodeRed Endpoint Password"
         },
-        "description": "Enter your NodeRed endpoint, user, and password.",
-        "title": "NodeRed Endpoint"
+        "description": "Enter your NodeRed endpoint URL, Username, and Password.",
+        "title": "NodeRed Conversation Agent - Configuration"
       }
     },
     "error": {
@@ -21,12 +21,12 @@
     "step": {
       "init": {
         "data": {
-          "nodered_url": "NodeRed Endpoint",
-          "nodered_user": "NodeRed Endpoint User",
-          "nodered_pass": "NodeRed Endpoint Pass"
+          "nodered_url": "NodeRed Endpoint URL",
+          "nodered_user": "NodeRed Endpoint Username",
+          "nodered_pass": "NodeRed Endpoint Password"
         },
-        "description": "Enter your NodeRed endpoint, user, and password.",
-        "title": "NodeRed Endpoint"
+        "description": "Enter your NodeRed endpoint URL, Username, and Password.",
+        "title": "NodeRed Conversation Agent - Options"
       }
     }
   }
